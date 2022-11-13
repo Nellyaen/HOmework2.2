@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        //задание 1
+        //задание 4
        var friend = 19;
        System.out.println(friend);
        friend = friend + 2;
@@ -8,7 +8,7 @@ public class Main {
        friend = friend / 7;
        System.out.println(friend);
 
-       //задание 2
+       //задание 5
         var frog = 3.5;
         System.out.println(frog);
         frog = frog * 10;
